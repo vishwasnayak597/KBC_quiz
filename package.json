@@ -2,7 +2,7 @@
   "name": "kbcs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vishwasnayak597.github.io/kbc.io/", 
+  "homepage": "https://vishwasnayak597.github.io/kbc", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
